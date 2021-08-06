@@ -1,0 +1,9 @@
+{
+  "name": "igniter-database",
+  "version": "1.0.0",
+  "description": "Database library",
+  "main": "index.js",
+  "repository": "https://github.com/duffman/igniter-database.git",
+  "author": "Patrik Forsberg <patrik.forsberg@coldmind.com>",
+  "license": "LGPL2.1"
+}
